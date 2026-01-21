@@ -1,3 +1,11 @@
-# Computer Lab: Mechanics for MSc in Engineering (Örebro University)
+# Computer Lab: Mechanics for MSc in Engineering 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoStrand/mechanics_computer_lab_catenary/main?urlpath=%2Fdoc%2Ftree%2FArraysAndViz.ipynb)
+Given at Örebro University
+
+## Slides
+
+- Arrays and visualization [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoStrand/mechanics_computer_lab_catenary/main?urlpath=%2Fdoc%2Ftree%2FArraysAndViz.ipynb)
+
+- Numerical solution of boundary value problems [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoStrand/mechanics_computer_lab_catenary/main?urlpath=%2Fdoc%2Ftree%2FNumericalBVPSolution.ipynb)
+
+- Boundary condition fit for analyti solution [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoStrand/mechanics_computer_lab_catenary/main?urlpath=%2Fdoc%2Ftree%2FBoundaryConditionFit.ipynb)

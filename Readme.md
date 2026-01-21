@@ -1,8 +1,10 @@
-# Computer Lab: Mechanics for MSc in Engineering 
+# Computer Lab
 
-Given at Örebro University
+## Mechanics for MSc in Engineering - Spring 2026
 
-## Slides
+For details please see the **lab description** on the course homepage.
+
+## Slide decks
 
 - Arrays and visualization [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoStrand/mechanics_computer_lab_catenary/main?urlpath=%2Fdoc%2Ftree%2FArraysAndViz.ipynb)
 

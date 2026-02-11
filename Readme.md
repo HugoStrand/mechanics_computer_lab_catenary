@@ -28,6 +28,10 @@ Starting `jupyter-lab` on the command line should open up a new browser window w
 
 Note that this procedure has to be repeated on each computer you use in the computer room.
 
+## Alternative setups
+
+If you have a Google account you can get access to a Jupyter environment directly in your browser using [Google Collab](https://colab.research.google.com/).
+
 ## Slide decks
 
 Here are the interactive notebooks for the Lab sessions 2, 3, and 4:

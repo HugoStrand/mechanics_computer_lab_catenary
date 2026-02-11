@@ -26,7 +26,7 @@ Starting `jupyter-lab` on the command line should open up a new browser window w
 
 ## Slide decks
 
-Here are the interactive notebooks for the Lab sessions 2,3, and 4:
+Here are the interactive notebooks for the Lab sessions 2, 3, and 4:
 
 - __Lab session 2:__ Arrays and visualization [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoStrand/mechanics_computer_lab_catenary/main?urlpath=%2Fdoc%2Ftree%2FArraysAndViz.ipynb)
 

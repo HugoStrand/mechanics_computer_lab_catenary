@@ -28,8 +28,8 @@ Starting `jupyter-lab` on the command line should open up a new browser window w
 
 Here are the interactive notebooks for the Lab sessions 2,3, and 4:
 
-- [Lab session 2] Arrays and visualization [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoStrand/mechanics_computer_lab_catenary/main?urlpath=%2Fdoc%2Ftree%2FArraysAndViz.ipynb)
+- __Lab session 2:__ Arrays and visualization [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoStrand/mechanics_computer_lab_catenary/main?urlpath=%2Fdoc%2Ftree%2FArraysAndViz.ipynb)
 
-- [Lab session 3] Numerical solution of boundary value problems [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoStrand/mechanics_computer_lab_catenary/main?urlpath=%2Fdoc%2Ftree%2FNumericalBVPSolution.ipynb)
+- __Lab session 3:__ Numerical solution of boundary value problems [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoStrand/mechanics_computer_lab_catenary/main?urlpath=%2Fdoc%2Ftree%2FNumericalBVPSolution.ipynb)
 
-- [Lab session 4] Boundary condition fit for analyti solution [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoStrand/mechanics_computer_lab_catenary/main?urlpath=%2Fdoc%2Ftree%2FBoundaryConditionFit.ipynb)
+- __Lab session 4:__ Boundary condition fit for analytic solution [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoStrand/mechanics_computer_lab_catenary/main?urlpath=%2Fdoc%2Ftree%2FBoundaryConditionFit.ipynb)
